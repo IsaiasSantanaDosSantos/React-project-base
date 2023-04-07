@@ -1,3 +1,5 @@
-PRÓXIMA AULA 210 'ROUTER e HISTORY;
+Precisei voltar na aula 209 "React Router Dom", pois localmente a aplicação não está alterando entre as rotas, apenas na Home.
 
-OBS: Até aqui tudo certo!;
+E a aplicação que subi no vercel, parou de funcionar
+
+
