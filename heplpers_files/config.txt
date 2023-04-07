@@ -3,3 +3,20 @@ Precisei voltar na aula 209 "React Router Dom", pois localmente a aplicação n�
 E a aplicação que subi no vercel, parou de funcionar
 
 
+
+## SOLUÇÂO PARA MOSTRAR APENAS UMA MENSAGEM COM O TOASTIFY ##
+
+ toast.success('Eu uso um ID personalizado', {
+    toastId: 'customId',
+  });
+  OU
+  toast.error('Eu uso um ID personalizado', {
+     toastId: 'customId',
+  });
+  ou
+  toast.warn('Eu uso um ID personalizado', {
+     toastId: 'customId',
+  });
+
+ OBS:
+   Estilo global já configurado;
