@@ -1,6 +1,6 @@
-Precisei voltar na aula 209 "React Router Dom", pois localmente a aplicação não está alterando entre as rotas, apenas na Home.
+PRÓXIMA AULA 214 'CONFIGURANDO O AXIOS'
 
-E a aplicação que subi no vercel, parou de funcionar
+Lembrando que a aplicação até aqui localmente não está funcionando as rotas através dos links do menu (em nenhum aluno do curso). Mas a que eu subi no Vercel está funcionando normalmente (https://react-project-base.vercel.app/).
 
 
 
