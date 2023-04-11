@@ -4,11 +4,11 @@ import * as actions from './actions';
 import * as types from '../types';
 
 const requisicao = () =>
-  // , reject ↓
-  new Promise((resolve, reject) => {
+  // resolve, reject ↓
+  new Promise((resolve) => {
     setTimeout(() => {
-      reject();
-    }, 2000);
+      resolve();
+    }, 600);
   });
 
 function* exampleRequest() {
